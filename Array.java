@@ -18,7 +18,6 @@ public class Array {
 		{
 			System.out.println(args[i]);
 		}
-		System.out.println("new cahnges to file");
 	}
 }
 
